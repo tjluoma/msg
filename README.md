@@ -7,7 +7,11 @@ It also sends a message to 'echo' including a timestamp, and logs that output as
 
 You can see an example of the output here:
 
-![](msg.jpg)
+![](https://raw.github.com/tjluoma/msg/master/msg.jpg)
+
+I have included this on github because a lot of my other scripts use it, and I didn't want to have to keep explaining what it was.
+
+If you *don't* want to use `msg` you can just replace all instances of it with `echo`.
 
 [growlnotify]: http://growl.info/extras.php#growlnotify
 
