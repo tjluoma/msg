@@ -9,6 +9,8 @@ You can see an example of the output here:
 
 <img alt='[screenshot of msg in action]' src="//raw.github.com/tjluoma/msg/master/msg.jpg" width="586" height="171" border="1" />
 
+*(note that '@air' refers to the hostname of my computer.)*
+
 I have included this on github because a lot of my other scripts use it, and I didn't want to have to keep explaining what it was.
 
 If you *don't* want to use `msg` you can just replace all instances of it with `echo`.
