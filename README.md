@@ -7,7 +7,7 @@ It also sends a message to 'echo' including a timestamp, and logs that output as
 
 You can see an example of the output here:
 
-![](https://raw.github.com/tjluoma/msg/master/msg.jpg)
+<img alt='[screenshot of msg in action]' src="//raw.github.com/tjluoma/msg/master/msg.jpg" width="586" height="171" border="1" />
 
 I have included this on github because a lot of my other scripts use it, and I didn't want to have to keep explaining what it was.
 
