@@ -7,7 +7,7 @@ It also sends a message to 'echo' including a timestamp, and logs that output as
 
 You can see an example of the output here:
 
-<img style="border: outset 1px grey" alt='[screenshot of msg in action]' src="http://raw.github.com/tjluoma/msg/master/msg.jpg" width="586" height="171" border="0" />
+<img style="border: outset 1px grey" alt='[screenshot of msg in action]' src="https://raw.github.com/tjluoma/msg/master/msg.jpg" width="586" height="171" border="0" />
 
 *(note that '@air' refers to the hostname of my computer.)*
 
