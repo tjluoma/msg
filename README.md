@@ -1,7 +1,9 @@
 # msg README
 
-This is a zsh function that I use a lot in other shell scripts. The purpose is to alert me to things using
-[growlnotify][] in addition to 'echo'.
+Summary: `msg` is like `echo` except that uses `growlnotify`. `die` is like `msg` except that it will also cause an `exit` and a "sticky" [Growl] notification.
+
+This is a zsh function that I use a lot in other shell scripts. Its purpose is to alert me to things using
+[growlnotify] in addition to 'echo'.
 
 It also sends a message to 'echo' including a timestamp, and logs that output as well.
 
@@ -17,4 +19,4 @@ If you *don't* want to use `msg` you can just replace all instances of it with `
 
 [growlnotify]: http://growl.info/extras.php#growlnotify
 
-
+[Growl]: http://growl.info/
